@@ -2,7 +2,19 @@
 
 In this project, we'll use what we've learned about [query strings and forms](https://learn.firstdraft.com/lessons/102-query-strings-and-forms) to build a version of our dice roll app that allows users to type into forms. At last!
 
-[Here is our target.](https://dice-form.matchthetarget.com/)
+Here is our target:
+
+[dice-form.matchthetarget.com](https://dice-form.matchthetarget.com/)
+
+## Create a codespace
+
+We'll use the `appdev-projects/sinatra-dice-form` repository for this project. 
+
+This project includes automated tests, so click on this button to get started:
+
+LTI{Load Sinatra Dice Form assignment}(https://grades.firstdraft.com/launch)[S9ymPy6WCsn18gLbByVbZQ7k]{vfdtzJb5bLYqYwuqgeRKpc5d}(10)[Sinatra Dice Form Project]
+
+Then, fork the repository and create your codespace.
 
 ## /process_roll action
 
