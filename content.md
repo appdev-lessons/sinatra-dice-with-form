@@ -39,3 +39,5 @@ Add a form to the homepage that will send users to `/process_roll` when submitte
 Notice that each of the two actions are completely independent — a user can visit only one, and the other may never be visited at all. But the two actions work in tandem to make it easy for non-developer users to interact with our app.
 
 It's tempting to think that a form is just one action, but resist! One action _displays the form_, and the other action _processes the inputs_.
+
+---
