@@ -1,3 +1,3 @@
 # sinatra-dice-with-form
 
-https://learn.firstdraft.com/lessons/
+https://learn.firstdraft.com/lessons/228-sinatra-dice-with-form
