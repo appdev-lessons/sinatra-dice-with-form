@@ -6,6 +6,11 @@ Here is our target:
 
 [dice-form.matchthetarget.com](https://dice-form.matchthetarget.com/)
 
+<div class="bg-blue-100 py-1 px-5" markdown="1">
+
+[Here is a video for this lesson](https://share.descript.com/view/SyP28JnHkUa).
+</div>
+
 ## Create a codespace
 
 We'll use the `appdev-projects/sinatra-dice-form` repository for this project. 
